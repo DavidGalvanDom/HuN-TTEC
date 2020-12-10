@@ -6,8 +6,8 @@ info:
   termsOfService: "https://github.com/DavidGalvanDom/HuN-TTEC/"
   contact:
     email: "david.galvan@ttec.com"
-host: "https://github.com/DavidGalvanDom/HuN-TTEC"
-basePath: "/api/v1"
+host: "github.com/DavidGalvanDom/HuN-TTEC"
+basePath: "/"
 tags:
   - name: "token"
     description: "Client authentication."
